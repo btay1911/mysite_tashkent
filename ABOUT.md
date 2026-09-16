@@ -1,0 +1,4 @@
+- index.html — the homepage, an intro to Tashkent
+- photos.html — a small photo gallery of the city and a pointer to images in images/
+- styles.css — the stylesheet controlling colors, fonts, and layout
+- images/ — the four photos used across both pages
